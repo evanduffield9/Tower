@@ -1,3 +1,22 @@
+    ui front compile
+trui
+
+asian
+
+code
+
+string
+
+penel
+
+chirst
+
+jesus
+
+afford
+
+car
+
 Skidsheet 
           th 
 
