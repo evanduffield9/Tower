@@ -1,3 +1,21 @@
+pm
+
+auto
+
+signal
+
+correctly
+
+size
+
+them
+
+human
+
+elf
+
+dwarf
+    
     ui front compile
 trui
 
