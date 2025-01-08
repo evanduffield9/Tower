@@ -1,3 +1,73 @@
+down
+
+break down 
+
+tj
+  break 
+  th   down 
+
+th 
+ia      message
+  th tia 
+cu
+
+together
+
+shift
+
+head
+
+correct
+
+ti
+
+breakdown
+
+final
+
+
+as
+  init 
+  as   compile 
+as
+  network 
+
+as 
+  fonaal 
+
+
+as           init 
+as    network 
+
+as    connection 
+
+temple
+
+as        connection 
+as temple 
+
+night 
+
+as temple 
+
+night 
+
+day
+
+tenth
+
+battlefield
+
+nattlefield
+
+ogre
+
+matic
+
+auto
+
+pm
+
 pm
 
 auto
