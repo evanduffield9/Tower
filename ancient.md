@@ -1,3 +1,17 @@
+binary 
+
+groll 
+    cities 
+
+    amgong  tehi ioion n iopan iopn iopni opa inop inopa inopain opinp oan iopaniop ino pa inopnio pa
+
+    
+
+ancient 
+       taxes 
+
+       paid
+
 ancient
        taxes 
             paid ![ee](https://github.com/user-attachments/assets/da838e19-934f-4819-a0da-30de803ac9ae)
