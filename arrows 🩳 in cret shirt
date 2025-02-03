@@ -14,3 +14,17 @@ layer
 th
   direct 
 th       accossiatedo
+
+layer
+     direct
+
+direct
+      hp 
+
+hp
+  total 
+
+hp
+  minus 
+       collect
+              hp subtract amout
