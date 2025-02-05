@@ -1,4 +1,24 @@
-🐍concept 
+blank
+
+area
+a
+sector 
+
+gloss
+
+id 
+
+sector 
+
+original 
+
+these 
+
+snakes 
+
+these 
+
+🐍concept what  they
 
 argee
 
