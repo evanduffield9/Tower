@@ -1,3 +1,6 @@
+ghost 
+
+
 
 th cleric 
  th      reload 
@@ -18,3 +21,8 @@ th cleric
                                                                   shift 
                                                                          together  
                                                                                  ai channel 
+
+ghost
+     they 
+
+     ghost 
