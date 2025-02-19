@@ -11,4 +11,25 @@ head
     cleric 
 
 at
-  found 
+  found mt foot
+
+at
+  cleric 
+
+at
+  found mt foot
+
+mi
+  ah ch root
+
+mi
+  se ch root
+
+mi
+  ch ch root
+
+ch
+  re ch root asian trouble
+
+  restock
+  
