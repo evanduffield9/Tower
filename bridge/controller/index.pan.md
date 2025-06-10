@@ -25,3 +25,4 @@ back prop
 ![a7d935b4fc54fcf5c5a304540a3f5c01](https://github.com/user-attachments/assets/6c47d0e1-a1d7-45a4-b512-25940e45a09f)
 
 forcast
+![305659119-0bc742e9-0682-4d96-819f-f927ef318ad8-1](https://github.com/user-attachments/assets/1e7c743e-6fda-45e4-a8c8-39b38fc71702)
